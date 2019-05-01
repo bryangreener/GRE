@@ -1,0 +1,311 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.11.19)  26 APR 2019 18:56
+entering extended mode
+**./test.tex
+(test.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+
+LaTeX Warning: File `averycustom.cfg' already exists on the system.
+               Not generating it from this source.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\flashcards\flashcards.cls"
+Document Class: flashcards 2010/08/13 1.0.1 (matthew@debian.org)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\cardheight=\skip43
+\cardwidth=\skip44
+\topoffset=\skip45
+\oddoffset=\skip46
+\evenoffset=\skip47
+\oddevenshift=\skip48
+\cardmargin=\skip49
+\cardinnerheight=\skip50
+\cardinnerwidth=\skip51
+
+(C:\Users\Bryan\Desktop\build\averycustom.cfg)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+\c@flashcards@row=\count90
+\c@flashcards@col=\count91
+\flashcardFrontRiCi=\box26
+\flashcardBackRiCi=\box27
+\flashcardFrontRiCii=\box28
+\flashcardBackRiCii=\box29
+\flashcardFrontRiCiii=\box30
+\flashcardBackRiCiii=\box31
+\flashcardFrontRiCiv=\box32
+\flashcardBackRiCiv=\box33
+\flashcardFrontRiiCi=\box34
+\flashcardBackRiiCi=\box35
+\flashcardFrontRiiCii=\box36
+\flashcardBackRiiCii=\box37
+\flashcardFrontRiiCiii=\box38
+\flashcardBackRiiCiii=\box39
+\flashcardFrontRiiCiv=\box40
+\flashcardBackRiiCiv=\box41
+\flashcardFrontRiiiCi=\box42
+\flashcardBackRiiiCi=\box43
+\flashcardFrontRiiiCii=\box44
+\flashcardBackRiiiCii=\box45
+\flashcardFrontRiiiCiii=\box46
+\flashcardBackRiiiCiii=\box47
+\flashcardFrontRiiiCiv=\box48
+\flashcardBackRiiiCiv=\box49
+\flashcardFrontRivCi=\box50
+\flashcardBackRivCi=\box51
+\flashcardFrontRivCii=\box52
+\flashcardBackRivCii=\box53
+\flashcardFrontRivCiii=\box54
+\flashcardBackRivCiii=\box55
+\flashcardFrontRivCiv=\box56
+\flashcardBackRivCiv=\box57
+\flashcards@savelineskip=\skip52
+)
+(C:\Users\Bryan\Desktop\build\test.aux)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(0.0pt, 794.96999pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 614.295pt, 0.0pt)
+* \paperwidth=794.96999pt
+* \paperheight=614.295pt
+* \textwidth=794.96999pt
+* \textheight=614.295pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-72.26999pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+[1
+
+{C:/Users/Bryan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+]
+[3
+
+] [4
+
+]
+Overfull \hbox (19.66501pt too wide) in paragraph at lines 262--262
+ \OT1/cmr/bx/n/12 CERN/CERT/CRET/CRIM/CRI 
+ []
+
+[5
+
+] [6
+
+]
+Overfull \hbox (18.31767pt too wide) in paragraph at lines 322--322
+ \OT1/cmr/bx/n/12 CONTRA/CONTRO/COUNTER 
+ []
+
+[7
+
+] [8
+
+] [9
+
+] [10
+
+]
+Overfull \hbox (5.65103pt too wide) in paragraph at lines 556--556
+ \OT1/cmr/bx/n/12 FAC/FIC/FIG/FAIT/FEIT/FY 
+ []
+
+[11
+
+] [12
+
+] [13
+
+] [14
+
+] [15
+
+] [16
+
+] [17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+] [22
+
+] [23
+
+] [24
+
+] [25
+
+]
+[26
+
+] [27
+
+] [28
+
+] [29
+
+] [30
+
+] [31
+
+] [32
+
+] [33
+
+] [34
+
+] [35
+
+] [36
+
+] [37
+
+] [38
+
+]
+Overfull \hbox (3.19994pt too wide) in paragraph at lines 1867--1867
+[][][][][]  
+ []
+
+
+Overfull \hbox (3.19994pt too wide) in paragraph at lines 1867--1867
+[][][][][]  
+ []
+
+
+Overfull \hbox (3.19994pt too wide) in paragraph at lines 1867--1867
+[][][][][]  
+ []
+
+[39
+
+]
+Overfull \hbox (3.19994pt too wide) in paragraph at lines 1867--1867
+[][][][][]  
+ []
+
+
+Overfull \hbox (3.19994pt too wide) in paragraph at lines 1867--1867
+[][][][][]  
+ []
+
+
+Overfull \hbox (3.19994pt too wide) in paragraph at lines 1867--1867
+[][][][][]  
+ []
+
+[40
+
+] (C:\Users\Bryan\Desktop\build\test.aux) ) 
+Here is how much of TeX's memory you used:
+ 907 strings out of 493312
+ 13264 string characters out of 3138898
+ 96845 words of memory out of 3000000
+ 4505 multiletter control sequences out of 15000+200000
+ 4546 words of font info for 17 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,11n,21p,205b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmr10.pfb>
+Output written on C:\Users\Bryan\Desktop\build\test.pdf (40 pages, 109583 bytes
+).
+PDF statistics:
+ 144 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
